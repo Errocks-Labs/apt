@@ -1,0 +1,19 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 27 Oct 2026 17:13:14 +0000
+Label: BackupStriker
+Origin: BackupStriker
+Suite: stable
+MD5Sum:
+ 1bf606e75daeb9e9658fb04329e0b309              954 main/binary-amd64/Packages
+ 77edf680790460e79dba274ae8a92616              649 main/binary-amd64/Packages.gz
+SHA1:
+ 9180bedc81aaaab3957b00a2e6c32d381ee8ca08              954 main/binary-amd64/Packages
+ 0dfcf986eb0e65c9af28232b531506a153ccc103              649 main/binary-amd64/Packages.gz
+SHA256:
+ c429b8bf194343602ac963e94451bfb973dbcec1869dddfcd66ebc671ae39fd3              954 main/binary-amd64/Packages
+ 38a5e1fc83346034aa1020afc6b388e43138f81ffa8af3b038a6e176de3f0517              649 main/binary-amd64/Packages.gz
+SHA512:
+ 58a1123933b255385eb376d5610fb13efd82c24d7433b58afb24157cb1c20ab07f30e28ebfd9f100b9b36266e9ceedd9a76900cae53dfdcd5a0c134d213f10a9              954 main/binary-amd64/Packages
+ 9b0fd92b1ee1f914585bd9635249c852c3f1741a6c6ef47bf9e52a65ca4781aee17e5e059022ec748c79f053fb8c43d50b1ebddc412c68b7d639ac24b1e84792              649 main/binary-amd64/Packages.gz

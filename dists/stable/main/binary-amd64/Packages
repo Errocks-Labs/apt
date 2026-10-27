@@ -1,0 +1,24 @@
+Package: backupstriker
+Architecture: amd64
+Version: 1.0.27
+Priority: optional
+Section: web
+Maintainer: Your Name <your@email.com>
+Installed-Size: 1968
+Depends: curl, tar, gzip, ca-certificates
+Suggests: docker.io
+Filename: pool/main/backupstriker_1.0.27_amd64.deb
+Size: 1531862
+MD5sum: e0094a04154f30af80a5db65b4721c3b
+SHA1: f9abc5f204140b87c08927a32f88963656b5fae9
+SHA256: 4b8353a713b93d44a27c231172b33daf923ac12de74be63aa514ceb3bde2794a
+SHA512: 38a4345412e7701d6a3fd9d4c055466f60b9c10352cadb0522489a45595960275fda496f2640405ae017749dbfdb67a48e2a5f12a48485abaf7015894d7d1cf0
+Homepage: https://github.com/mitinsharma/backupstriker
+Description: Self-hosted backup manager for MariaDB and files
+ BackupStriker manages scheduled backups of MariaDB databases
+ and files, uploads to Cloudflare R2, and sends webhook
+ notifications on success or failure.
+ .
+ Includes a web dashboard, cron scheduling, service monitoring,
+ and Docker container health checks.
+
